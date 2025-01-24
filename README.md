@@ -4,7 +4,8 @@ Hi! My name is Rana, and I'm a first year Computer Engineering student at Polite
 
 ## 🌐 Socials
 
-<p><a href="https://www.instagram.com/ranakara.py?igsh=aTVueDFnMjl1ZXlp&utm_source=qr" target=”_blank”><img src="/icons/instagram.svg" alt="Instagram"></a></p> <p><a href="https://linkedin.com/in/rana-kara/" target=”_blank”><img src="/icons/linkedin.svg" alt="LinkedIn"></a></p>
+<span><a href="https://www.instagram.com/ranakara.py?igsh=aTVueDFnMjl1ZXlp&utm_source=qr" target="_blank"><img src="/icons/instagram.svg" alt="Instagram"></a></span>
+<span><a href="https://linkedin.com/in/rana-kara/" target="_blank"><img src="/icons/linkedin.svg" alt="LinkedIn"></a></span>
 
 ## 💻 Familiar With:
 
