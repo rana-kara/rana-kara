@@ -9,4 +9,13 @@ Hi! My name is Rana, and I'm a first year Computer Engineering student at Polite
 
 ## 💻 Familiar With
 
-<img src="/icons/python.svg"/> <img src="/icons/javascript.svg"/> <img src="/icons/html.svg"/> <img src="/icons/css.svg"/> 
+<span>
+  <img src="/icons/python.svg" height="24" style="vertical-align:middle;"/>
+  <img src="/icons/javascript.svg" height="24" style="vertical-align:middle;"/>
+  <img src="/icons/html.svg" height="24" style="vertical-align:middle;"/>
+  <img src="/icons/css.svg" height="24" style="vertical-align:middle;"/>
+  <img src="/icons/ros.png" height="24" style="vertical-align:middle;"/>
+  <img src="/icons/ts.png" height="24" style="vertical-align:middle;"/>
+  <img src="/icons/react.png" height="24" style="vertical-align:middle;"/>
+  <img src="/icons/twc.png" height="24" style="vertical-align:middle;"/>
+</span>
