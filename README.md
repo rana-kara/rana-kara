@@ -19,3 +19,7 @@ Hi! My name is Rana, and I'm a first year Computer Engineering student at Polite
   <img src="/icons/react.png" height="24" style="vertical-align:middle;"/>
   <img src="/icons/twc.png" height="24" style="vertical-align:middle;"/>
 </span>
+
+## 📄 My CV
+
+Click [here](./RanaKaraCV.pdf) for my CV.
