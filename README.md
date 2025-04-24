@@ -2,7 +2,7 @@
 
 Hi! My name is Rana, and I'm a first year Computer Engineering student at Politecnico di Torino. This is my GitHub where I share... stuff :D?
 
-My favorite thing at the moment is developing Discord bots. [SERENA](https://github.com/rana-kara/SERENA) was the first bot I ever developed (and lowkey sucks), but is currently out of use. At the time, it served a 2500+ member server. I've developed custom bots before too, purely for personal use. I have also developed a simple moderation Discord bot for Politecnico di Torino's Discord server, called [TESSA](https://github.com/rana-kara/TESSA), which is currently up and running.
+My favorite thing at the moment is developing Discord bots. [SERENA](https://github.com/rana-kara/SERENA) was the first bot I ever developed (and lowkey sucked), but is currently out of use. At the time, it served a 2500+ member server. I've developed custom bots before too, purely for personal use. I have also developed a simple moderation Discord bot for Politecnico di Torino's Discord server, called [TESSA](https://github.com/rana-kara/TESSA), which is currently up and running.
 
 ## 🌐 Socials
 
