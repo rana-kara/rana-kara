@@ -22,4 +22,4 @@ Hi! My name is Rana, and I'm a first year Computer Engineering student at Polite
 
 ## 📄 My CV
 
-Click [here](./RanaKaraCV.pdf) for my CV.
+Click <a href="./RanaKaraCV.pdf" target="_blank">here</a> for my CV.
