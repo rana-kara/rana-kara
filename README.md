@@ -21,8 +21,3 @@ My favorite thing at the moment is developing Discord bots. SERENA was the first
   <img src="/icons/react.png" height="24" style="vertical-align:middle;"/>
   <img src="/icons/twc.png" height="24" style="vertical-align:middle;"/>
 </span>
-
-## 📄 My CV and Discord Bot Portfolio
-
-Click [here](./RanaKaraCV.pdf) for my CV.
-Click [here](https://imgur.com/a/KbQ50EC) for my Discord bot portfolio.
