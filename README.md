@@ -1,6 +1,6 @@
 ## ⭐ About Me
 
-Hi! My name is Rana, and I'm a first year Computer Engineering student at Politecnico di Torino. This is my GitHub where I share... stuff :D?
+Hi! My name is Rana, and I'm a first year Mechanical Engineering student at Politecnico di Torino. This is my GitHub where I share... stuff :D?
 
 ## 🌐 Socials
 
